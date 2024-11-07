@@ -19,11 +19,12 @@ h2 {
 
 h3 {
     color: white;
-    }
+}
 
 .address {
     color: white;
 }
+
 ul {
     list-style-type: none;
 }
@@ -43,7 +44,7 @@ ul {
 
 p {
     color: black;
-    font-family: 'Franklin Gothic URW Cond', sans-serif;;
+    font-family: 'Franklin Gothic URW Cond', sans-serif;
     font-size: 18px;
     font-weight: 5px; 
     text-align: left;
