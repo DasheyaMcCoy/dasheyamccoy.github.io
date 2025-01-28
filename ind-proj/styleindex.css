@@ -1,0 +1,136 @@
+body {
+    background-color: #B64645; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    width: 300px;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+
+h3{
+    color: black;
+    font-family: 'Baskerville Old Face', serif;
+    font-size: 30px;
+    text-align: left;
+    margin-left: 40px;
+}
+
+#content {
+    width: 300px;
+    margin-left: 20px;
+    margin-right: 5px;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 50px 30px;
+}
+
+p {
+    color: white;
+    font-family: 'Baskerville Old Face', serif;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 40px;
+}
+
+footer {
+    background-color: black;
+    width: 380px;
+    height: 80px;
+    position: relative;
+    margin-top: -10px;
+}
+
+.copyright {
+    font-family: 'Franklin Gothic URW Cond', sans-serif;
+    font-size: 8px ;
+    font-weight: bold ;
+    color: white; 
+    text-align: center;
+    padding: 40px;
+    padding-top: 50px;
+    margin-right: 40px;
+}
+
+.homeimage {
+    width: 350px;
+    border: solid black 2px;
+    margin-left: 10px;
+    mix-blend-mode: darken;
+}
+
+
+.logo {
+    width: 80px;
+    mix-blend-mode: darken;
+    padding-left: 10px;
+    position: absolute;
+}
+
+nav {
+    margin-left: 220px;
+    margin-top: 12px;
+    margin-bottom: 20px;
+    color: white;
+    text-align: right;
+    width: 100px;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+a:hover{
+    color:black;
+    font-size: 30px;
+}
+
+.locationimage {
+    width: 320px;
+    border: solid black 2px;
+    mix-blend-mode: darken;
+    margin-right: 40px;
+}
+
+.closetimage {
+    width: 20px;
+    margin-left: 45px;
+}
+
+.closetopenimage {
+    width: 60px;
+    margin-left: 120px;
+    padding: 20px;
+}
+
+.h3-location{
+    margin-right: 50px;
+    margin-left: 70px;
+}
+
+h4{
+    color: white;
+    font-family: 'Baskerville Old Face', serif;
+    font-size: 18px;
+}
+
+ul{
+    list-style-type: none;
+    margin-right: 80px;
+}
+
+.contactimage{
+    margin: 20px;
+    width: 300px;
+}
